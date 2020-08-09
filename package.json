@@ -1,5 +1,5 @@
 {
-  "name": "cookieconsent",
+  "name": "@avison-young/cookieconsent",
   "version": "4.0.0",
   "description": "Osano cookie consent tool.",
   "main": "build/cookieconsent.min.js",
@@ -47,6 +47,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/osano/cookieconsent.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.thirdwavellc.com/repository/thirdwave-npm/"
   },
   "author": "Osano, Inc., a Public Benefit Corporation",
   "license": "MIT",
