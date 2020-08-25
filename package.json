@@ -49,7 +49,7 @@
     "url": "https://github.com/osano/cookieconsent.git"
   },
   "publishConfig": {
-    "registry": "http://nexus.thirdwavellc.com/content/repositories/thirdwave-npm/"
+    "registry": "https://npm.thirdwavellc.com/repository/thirdwave-npm/"
   },
   "author": "Osano, Inc., a Public Benefit Corporation",
   "license": "MIT",
